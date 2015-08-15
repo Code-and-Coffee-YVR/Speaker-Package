@@ -53,7 +53,7 @@ pique their interests.
 - Live coding can work well, as long as the examples are kept short and simple.
   - Don't forget to bump up the font size _way up_ for the projector!
 - Do a dry run at home to get a sense of time and flow
-- This isn't your once chance tat you _must get right_. You can speak many times!
+- This isn't your one chance that you _must get right_. You can speak many times!
 - Quite a few of our members have spoken. We know that it can be intimidating. Don't worry! We're rooting for you!
 
 ## Video Recording
