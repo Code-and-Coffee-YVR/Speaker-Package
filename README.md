@@ -68,3 +68,5 @@ If possible, please also record the audio. We can provide a Mac with Capturer an
 
 ## Past Examples!
 As mentioned above, we have recorded past talks! They are [available on YouTube](https://www.youtube.com/channel/UCQaXHorjVswT9xm8Ho7G0RQ).
+
+You can find the titles of all previous talks listed [here](past_talk_titles.md).
