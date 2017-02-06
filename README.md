@@ -3,8 +3,17 @@ The following is a general starter package for giving presentations at meetups.
 They are _suggestions only_. Feel free to adapt them to your particular topic or
 presentation style.
 
+## Talk Requirements
+The following are rules every talk must respect:
+
+- It must be related to the tech industry in some shape or form.
+- It must not sell or pitch.
+- It must not be used to market.
+- It can not be a recruiting tool.
+- It must respect our [code of conduct](https://www.meetup.com/Code-Coffee-Vancouver/pages/19153519/Code_of_Conduct/).
+
 ## The Community Stage Format
-At Code & Coffee, we generally have three 5-10 minute talks. It may not sound like it,
+At Code & Coffee, we generally have up to three 10-15 minute talks. It may not sound like it,
 but this is a short amount of time. The idea is to give the audience a taste of the topic,
 pique their interests.
 
@@ -32,7 +41,7 @@ pique their interests.
       - Feel free to bring cue cards or use the speaker's notes feature in Keynote or PowerPoint
       - If you prefer, you can also ad lib! Totally up to you!
 
-4. Time check! If you're at 7 minutes, it's probably time to start wrapping up!
+4. Time check! If you're at 12 minutes, it's probably time to start wrapping up!
   - If you need an extra few minutes, don't sweat it. Just try to keep as close to 10 minutes as possible.
 
 5. Summarize the talk
