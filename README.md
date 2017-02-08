@@ -1,14 +1,13 @@
 # Speakers' Package
-The following is a general starter package for giving presentations at meetups.
-They are _suggestions only_. Feel free to adapt them to your particular topic or
-presentation style.
+The following is a general starter package for giving presentations at Code & Coffee.
+They are _suggestions only_ with the exception of the **Talk Requirements**. Feel free to adapt them to your particular topic or presentation style.
 
 ## Talk Requirements
 The following are rules every talk must respect:
 
-- It must be related to the tech industry in some shape or form.
+- It must be related to the tech industry (even if loosely related).
 - It must not sell or pitch.
-- It must not be used to market.
+- It must not be used as marketing.
 - It can not be a recruiting tool.
 - It must respect our [code of conduct](https://www.meetup.com/Code-Coffee-Vancouver/pages/19153519/Code_of_Conduct/).
 
