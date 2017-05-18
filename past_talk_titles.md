@@ -1,5 +1,37 @@
 # List of Past Talk Titles
 
+### Dec 1st, 2016
+- Luiz Augusto Leonardo (@lurimendes) – Remote work your way to victory!
+- Leonardo Faria (@leozera) – Web APIs to Improve User Experience
+- Clemens Wolff – Bridging the digital divide with Raspberry Pi and Python, one Flask at a time
+
+### Oct 27th, 2016
+- Philippe Creux (@pcreux) – Functional Micro Services fixed All the Things!
+- Eric Richardson (@EricOnRails) – Should You go to a bootcamp? Reflections from a recent graduate
+
+### Sept 22th, 2016
+- Heather Booker (@heatherbooker) – The Confidence Gap
+- Anna Wang (@AnnaWca) – Sense Soccer Tweets with Science
+- Shawn Mckay (@Sh_McK) – Coding to Learn
+
+### Aug 25th, 2016
+- Luis Ricardo Espinal (@lespinalrivera) – Plan like Batman (or The Joker)
+- Alex Taylor (@mctaylorpants) – How I learned modern Javascript by writing ancient Javascript
+- Wendy Hoy (@wendy_hoy) - You Are More Than Just a Programmer 
+
+### Jul 21st, 2016
+- Gavin Mogan (@halkeye) – No REST for the wicked: Howtos, Tricks and Tips to build REST Servers
+- Abinyah Walker (@abinyah) – Using the Hypervisor in your development workflow
+
+### Jun 16th, 2016
+- Leonardo Faria (@leozera) – Wordpress and Gulp
+- Sergey Skovorodnikov (...) – Different workspace mindset with i3 window manager on Linux
+
+### May 19th, 2016
+- Alex Taylor (@mctaylorpants) – Learn vim, travel the keyboard, impress your friends
+- Cameron (@camerondfuller), Emilie (@EmilieNagahama) & Sarah (@sarajanesim) – From Nothing to Novice: a Developing Journey 
+- Peter Wittig (@motive_io) – Location Based Storytelling using Mobile Technology
+
 ### April 14th, 2016
 - Gavin Mogan (@halkeye) - Why Not Testing
 - Maciej Kumorek (@macqm) - Universal Windows Platform and Xamarin
