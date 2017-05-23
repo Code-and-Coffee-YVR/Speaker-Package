@@ -1,5 +1,29 @@
 # List of Past Talk Titles
 
+### May 31st, 2017
+- Luis Ricardo Espinal (@lespinalrivera) – Plan like Batman (or The Joker) 
+- Andrew Ou (@andrewou9) – The Best Experience is No Experience 
+- Anna Wang (@AnnaWca) – Sense Soccer Tweets with Science
+
+### May 18th, 2017
+- Nishant Srivastava (http://www.nisrulz.com/)– Hello 'Kotlin' World!
+- Nicholas Liu – An Introduction to GraphQL
+
+### Apr 20th, 2017
+- Elle Kasai (@ellekasai) - How to Create CSS Coding Test 
+- Darryl Pogue (@dpogue) - CSS Custom Properties (aka. CSS Variables)
+- Andrew Ou (@andrewou9) - Achieving Great UX through Simplicity and Directness 
+
+### Mar 16th, 2017
+- Kei Yamagishi (@kay_ya) - SVG Animation 101 
+- Arthur Camara (@arthur_camara) - How we almost lost 10,000 users
+
+### Feb 16th, 2017
+- Andrew Ou (@andrewou9) – The Best Experience is No Experience 
+
+### Jan 19th, 2017
+- Ayako Sayama (@great_sayaman) – Rapid Design Prototyping
+
 ### Dec 1st, 2016
 - Luiz Augusto Leonardo (@lurimendes) – Remote work your way to victory!
 - Leonardo Faria (@leozera) – Web APIs to Improve User Experience
