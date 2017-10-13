@@ -1,5 +1,25 @@
 # List of Past Talk Titles
 
+### Oct 19th, 2017
+- Mike (@yagudaev) – Changing the world with ARKit
+- Mariatta (@mariatta) – Savage Garden Hotline in Python
+
+### Sep 31st, 2017
+- Holly Becker (@Hwesta) – Can I use that code?
+
+### Aug 30th, 2017
+- Dethe (@dethe) – Full Featured Websites without Writing JavaScript 
+- Rob (@8bitrpg) – Random == Unfair 
+- Afsha (@_____AS_AS_____) – Automating with C# (Excel example)
+
+### Aug 17th, 2017
+- James Doyle (@james2doyle) – A Simple Blockchain Implementation
+-  Nishant Srivastava (@nisrulz) – Delightful X-App Development with Flutter
+
+### Jun 22nd, 2017
+- Clemens Wolff – Super Simple Web Services in Python with Sanic and Authbind
+- Anish Kumar – Developing using Docker and Amazon Elastic Container Service (ECS) 
+
 ### May 31st, 2017
 - Luis Ricardo Espinal (@lespinalrivera) – Plan like Batman (or The Joker) 
 - Andrew Ou (@andrewou9) – The Best Experience is No Experience 
