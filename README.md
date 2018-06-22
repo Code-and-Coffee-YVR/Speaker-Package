@@ -11,6 +11,9 @@ The following are rules every talk must respect:
 - It can not be a recruiting tool.
 - It must respect our [code of conduct](https://www.meetup.com/Code-Coffee-Vancouver/pages/19153519/Code_of_Conduct/).
 
+## Styleguide
+- Good accessibility practice says that the font size used shouldn't be less than 24 point, else it becomes difficult to read from a distance. You would like your audience to be able to read your slides, right?! 
+
 ## The Community Stage Format
 At Code & Coffee, we generally have up to three 10-15 minute talks. It may not sound like it,
 but this is a short amount of time. The idea is to give the audience a taste of the topic,
